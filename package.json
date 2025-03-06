@@ -36,6 +36,7 @@
 	],
 	"license": "MIT",
 	"type": "module",
+	"types": "dist/index.d.ts",
 	"exports": "./dist/index.js",
 	"description": "A lightweight utility to flatten nested JavaScript objects into dot-notation key-value pairs and unflatten them back. Perfect for handling complex configurations, form data, or API transformations.",
 	"files": ["dist", "README.md"],
@@ -45,10 +46,7 @@
 		"typescript": "5.8.2",
 		"vitest": "3.0.7"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/eivindingebrigtsen/nested-object-to-key-value.git"
-	},
+	"repository": "eivindingebrigtsen/nested-object-to-key-value",
 	"bugs": {
 		"url": "https://github.com/eivindingebrigtsen/nested-object-to-key-value/issues"
 	},
