@@ -1,6 +1,9 @@
 export {
 	flattenJson,
-	keyValueArrayToObject,
 	type FlattenedPair,
+	keyValueArrayToObject,
 } from "./flattenJson";
-export { unflattenJson, type UnflattenedJson } from "./unflattenJson";
+export {
+	unflattenJson,
+	type UnflattenedJson,
+} from "./unflattenJson";
