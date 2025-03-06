@@ -1,6 +1,6 @@
 # 🦤 Nested objects to key value
 
-![[build and test workflow]](https://github.com/github/docs/actions/workflows/ci.yml/badge.svg)
+[![build and test workflow](https://github.com/github/docs/actions/workflows/ci.yml/badge.svg)](https://github.com/eivindingebrigtsen/nested-object-to-key-value/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/nested-object-to-key-value.svg)](https://www.npmjs.com/package/nested-object-to-key-value)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
