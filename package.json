@@ -12,7 +12,7 @@
 		"prepare": "npm run build",
 		"lint": "biome check .",
 		"format": "biome format . --write",
-		"prepublishOnly": "npm test && npm run build",
+		"prepublishOnly": "npm test && rm -rf dist && npm run build",
 		"preversion": "npm run lint",
 		"version": "npm run format && git add -A src",
 		"postversion": "git push && git push --tags",
