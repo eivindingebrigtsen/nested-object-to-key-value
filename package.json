@@ -1,6 +1,6 @@
 {
 	"name": "nested-object-to-key-value",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"author": "uǝsʇƃᴉɹqǝƃuI puᴉʌᴉƎ",
 	"scripts": {
 		"build": "rm -rf dist && tsc",
